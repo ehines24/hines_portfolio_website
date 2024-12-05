@@ -1,0 +1,9 @@
+.SocialBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 15vh;
+}
+.SocialLogo {
+    width: 2.5rem;
+}

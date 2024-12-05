@@ -4,11 +4,13 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import HeaderLogo from './HeaderLogo/HeaderLogo';
+import Socials from './Socials/Socials';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <HeaderLogo />
+    <Socials />
   </React.StrictMode>
 );
 
