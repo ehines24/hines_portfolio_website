@@ -9,9 +9,9 @@
     justify-content: space-evenly;
     background-image: url("background_image.jpg");
     background-size: cover;
-    height: 85vh;
+    min-height: 55vh;
 }
-@media (max-width: 850px) {
+@media (max-width: 800px) {
     .HeaderLogo {
         flex-direction: column;
     }

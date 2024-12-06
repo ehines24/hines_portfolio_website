@@ -2,7 +2,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 15vh;
+    padding: 1rem;
+    flex: 0 1 5vh;
 }
 .SocialLogo {
     width: 2.5rem;
