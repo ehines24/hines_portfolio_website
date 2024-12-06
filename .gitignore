@@ -44,6 +44,4 @@ yarn-debug.log*
 yarn-error.log*
 
 # asset pool
-LinkedIn-Logos
-github-mark
-github-mark*.zip
+/asset_pool
